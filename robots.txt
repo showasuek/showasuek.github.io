@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://showasuek.github.io/sitemap.xml
